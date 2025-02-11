@@ -2,7 +2,7 @@
 
 ### 1.1. Description du projet
 
-Dans ce projet, nous travaillons sur un système de **génération augmentée de récupération** (**RAG** - Retrieval Augmented Generation) qui combine des modèles de langue génératifs et des techniques de recherche d'information. Les données se trouvent dans cette compétition kaggle : [text](https://www.kaggle.com/competitions/inf-8460-aut-2024-tp-4).
+Dans ce projet, nous travaillons sur un système de **génération augmentée de récupération** (**RAG** - Retrieval Augmented Generation) qui combine des modèles de langue génératifs et des techniques de recherche d'information. Les données se trouvent dans cette compétition kaggle : [kaggle.com/competitions/inf-8460-aut-2024-tp-4](https://www.kaggle.com/competitions/inf-8460-aut-2024-tp-4).
 
 Lorsqu'une question est posée, nous devons retrouver les passages les plus pertinents à l'aide d'un modèle de recherche. Ensuite, nous utilisons ces passages pour générer une réponse à la question. Enfin, nous explorons différentes approches pour améliorer les performances de notre modèle RAG.
 
